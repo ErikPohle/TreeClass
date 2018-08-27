@@ -12,7 +12,7 @@ public class HashEntry {
 		return this.key;
 	}
 	
-	public String getValue(String key) {
+	public String getValue() {
 		return this.val;
 	}
 	
